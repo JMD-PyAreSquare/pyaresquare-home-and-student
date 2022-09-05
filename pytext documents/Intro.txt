@@ -1,0 +1,4 @@
+Hello World! This is an example of PyText (.txt) file. You can turn on word wrap so that words don't get cut in half when you reach the border. You can also clear this text and change the font. You can even add a timestamp!
+
+PyText - A text editor in python!
+made by Jane Mat Dreiags
